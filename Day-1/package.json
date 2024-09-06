@@ -1,0 +1,17 @@
+{
+  "name": "day-1_module_server_set_up",
+  "version": "1.0.1",
+  "description": "to set up basic server using express",
+  "main": "index.js",
+  "bin": {
+    "server-set-up": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhafa Nur Fadhilah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
